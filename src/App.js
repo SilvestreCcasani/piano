@@ -16,7 +16,7 @@ function App() {
 
     setTimeout(() => {
       const tp = window.tp || [];
-      tp.push(["setCookieDomain", "cocotopia.github.io"]);
+      tp.push(["setCookieDomain", "SilvestreCcasani.github.io"]);
     }, 1000);
   }, []);
 
