@@ -82,7 +82,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>Bienvenido a mi Sitio {nameUser}</p>
+        <p>Bienvenido a mi Sitio web {nameUser}</p>
 
         <a
           className="App-link"
